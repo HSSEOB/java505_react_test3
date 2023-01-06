@@ -1,7 +1,7 @@
 import React from "react";
 import Toolbar from "./Toolbar";
 
-// 컨택스트 : 자식 컴포넌트에 데이터를 한번에 전달 할 수 있는 객체
+// 컨텍스트 : 자식 컴포넌트에 데이터를 한번에 전달 할 수 있는 객체
 // React.createContext : 컴텍스트 객체를 생성
 // Provider를 사용하여 생성된 컨텍스트를 사용할 컴포넌트를 지정하여 사용
 // 사용법 :
