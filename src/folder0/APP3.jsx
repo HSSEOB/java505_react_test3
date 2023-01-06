@@ -1,6 +1,6 @@
 import React from "react";
-import ProfileList from "./forder1/ProfileList";
-import BoardList from "./forder1/boardList";
+import ProfileList from "../forder1/ProfileList";
+import BoardList from "../forder1/boardList";
 
 function APP3(){
   return(

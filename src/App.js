@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import {Button} from "react-bootstrap";
-import ClassComponent from "./ClassComponent";
-import FunctionComponent from "./FunctionComponent";
+import ClassComponent from "./folder0/ClassComponent";
+import FunctionComponent from "./folder0/FunctionComponent";
 
 // JSX : 자바스크립트 + HTML/xml = JSX  => 하나의 파일에 자바 스크립트와 HTML을 동시에 작성 할 수 있다.
 

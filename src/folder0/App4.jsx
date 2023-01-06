@@ -1,7 +1,7 @@
 // App4.jsx
 
 import React from "react";
-import Header1 from "./forder1/Header1";
+import Header1 from "../forder1/Header1";
 import Contents from "./Contents";
 import {Container} from "react-bootstrap";
 function App4(){
